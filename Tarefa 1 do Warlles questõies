@@ -1,0 +1,122 @@
+1) 1.Pegar a escada
+2.Posicionar a escada embaixo da lâmpada
+3.Subir na escada
+4.Retirar a lâmpada velha
+5.Buscar a lâmpada reserva
+6.Colocar a lâmpada reserva
+
+2)1.Fazer a fatoração de fatores primos de 36 e 60 ao mesmo tempo
+2.A fatoração acaba quando não houver fatores primos que dividam os dois ao mesmo tempo
+3.Multiplicar os fatores que dividam os dois números ao mesmo tempo
+4.O resultado será 12
+
+3)1.Leva o Bode
+2.Volta vazio
+3.Leva o lobo
+4.Traz o bode
+5.Leva a alfafa
+6.Volta vazio
+7.Leva o bode
+
+4)1.Vai dois canibais no barco
+2.Volta um no barco e o outro fica na margem
+3.Leva o mesmo canibal mais um jesuíta margem abaixo
+4.Deixa o jesuita junto com o canibal na outra margem
+5.Volta com o canibal 
+6.Leva mais um jesuíta margem abaixo
+7.Deixa ele na outra margem 
+8.Volta com o mesmo canibal
+9.Leva o último jesuíta margem abaixo
+
+5)1. Mover disco 1 de A para C
+2. Mover disco 2 de A para B
+3. Mover disco 1 de C para B
+4. Mover disco 3 de A para C
+5. Mover disco 1 de B para A
+6. Mover disco 2 de B para C
+7. Mover disco 1 de A para C
+
+6)1.Amanda por ficar no térreo comprou o livro
+2.Com os dois homens no elevador ficam 7 pessoas nele
+3.Com as dicas mostrada na questão podemos deduzir que as 2 mulheres que saíram no segunod andar foram Camila que comprou a Bolsa e a outa mulher que comprou a Gravata
+4.No terceiro andar sai mais uma mulher 
+5.No quarto saem os dois homens
+6.No último andar como só tem duas mulheres no elevador e a Filomena saí só no ultimo Elisa comprou a Candeeiro
+7.Fica até agora Amanda(livro) Camila(Bolsa) Elisa(Candeeiro)
+8.Se Bete não deu a gravata para o marido e Filomena saiu no último andar então Divina comprou a Gravata
+9.Bete o vestido porque eles estavam no 3 andar
+10.e Filomena o Chapéu
+
+7)1. Encher C (3L) com água do A, A = 5, C = 3
+2. Despejar C no B, B = 3, C = 0
+3. Encher C (3L) com água do A, A = 2, C = 3
+4. Encher B com o que falta (2L), B = 5, C = 1
+5. Despejar C no A, A = 3, C = 0
+6. Esvaziar  B = 0
+7. Encher C com 3L do A, A = 0, C = 3
+8. Despejar C no B, B = 3
+9. Encher C novamente com água do A (não tem mais)
+10. Agora encher A com os 5L (antes guardados), e repetir até ter A = 4, B = 4, C = 0
+
+8)1.Se Antonio não é pianista ele não ensaia na terça
+2.João Ensaia com vilonista que nesse caso só pode ser Antonio
+3.Como o pianista ensaia sozinho e João e Antonio ensaim juntos o pianista é Francisco
+4.Só sobra o João que toca harpa
+
+9)Doze amigos e suas bebidas preferidas:
+Amigos: João, Miguel, Nádia, Sílvia, Afonso, Cristina, Geraldo, Júlio, Maria, Máximo, Manuel e Ivone
+Bebidas: limonada, guaraná, whisky, vinho, champanhe, água, laranja, café, chá, vermouth, cerveja, vodka
+ tabela 
+João	café ou chá
+Miguel	café ou chá
+Júlio	guaraná ou whisky
+Geraldo	guaraná ou whisky
+Nádia	≠ limonada, vinho
+Maria	≠ limonada, vinho
+Sílvia	≠ café
+Afonso	≠ café
+Máximo	≠ guaraná
+Manuel	≠ guaraná
+Pela pista do futebol:
+João e Miguel = café e chá
+Como quem gosta de café foi nadar com Sílvia e Afonso, e João jogou futebol e nadou, então João = café => Miguel = chá
+Pela pista do futebol:
+Júlio e Geraldo = guaraná e whisky
+E Júlio foi ao cinema com champanhe e água => Júlio ≠ champanhe ou água
+=> Geraldo ≠ champanhe ou água também
+Pela pista do teatro:
+Miguel foi com quem gosta de guaraná e vodka
+=> Miguel ≠ essas bebidas
+=> Como Geraldo e Júlio são guaraná e whisky, e Júlio já não pode ser guaraná, então Geraldo = guaraná, Júlio = whisky
+Pela pista do cinema:
+Júlio foi com quem gosta de champanhe e água
+=> Júlio ≠ essas bebidas
+=> Champanhe e água são de outros 2 amigos
+=> Restam: Nádia, Cristina, Ivone, Maria, Máximo, Manuel
+Usaremos esses para testar mais combinações
+Pela pista da rua:
+Guaraná encontrou Máximo e Manuel na rua
+=> Guaraná = Geraldo (confirmado) => Geraldo encontrou Máximo e Manuel
+=> Logo, Máximo ≠ guaraná, Manuel ≠ guaraná
+Com isso:
+João	café
+Miguel	chá
+Júlio	whisky
+Geraldo	guaraná
+Nádia	champanhe
+Sílvia	vinho
+Afonso	cerveja
+Cristina	limonada
+Maria	água
+Máximo	vodka
+Manuel	vermouth
+Ivone	laranja
+
+10)1.Vamos construir uma tabela com n esportes na vertical e pessoas na horizontal
+2.Se Gumercido venceu Bernabé ou Gumercido é 1 ou 2 e Bernabé 2 ou 3 lugar
+3.Teodoro chegou atrás de Gumercido então Teodoro é ou 2 ou 3 e Gumercido 1 ou 2 lugar
+4.Bernabé não foi 1 lugar nos 100 rasos
+5.Agora vamos completar a tabela com as informações dadas 
+6.Gumercido fica em 1 lugar no salto, Teodoro em 2 lugar e Bernabé em 3 lugar 
+7.No arremesso 1 Bernabé, 2 Gumercido, 3 Teodoro
+8.Nos 100 rasos Teodoro 1, Bernabé 2 e Gumercido 3
