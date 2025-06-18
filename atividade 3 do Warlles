@@ -130,3 +130,47 @@ programa {
     
   }
 }
+
+09
+programa {
+  funcao inicio() {
+    //Declaração de variavel
+    inteiro num, centena, dezena, unidade, cont 
+
+    //Entrada de Dados 
+    escreva("Informe um número com três digitos: ")
+    leia(num)
+
+    //processamento
+    centena = num / 100
+    cont = num % 100
+    dezena = cont / 10
+    cont = cont % 10
+    unidade = cont
+    escreva("O número ao contrário é ", unidade, dezena, centena)
+  }
+}
+
+10
+programa {
+  funcao inicio() {
+    //Declaração de variavel
+     real ganhador1, ganhador2, ganhador3
+
+     //Declaração de constante
+     const inteiro valortotal = 780.000
+
+    //Entrada de Dados
+
+    //processamento
+     ganhador1 = valortotal * 0.46
+     ganhador2 = valortotal * 0.32
+     ganhador3 = valortotal * 0.22
+
+     //saida dos dados
+     escreva("O premio para o primeiro ganhador sera ", ganhador1 ,"00 O segundo sera ", ganhador2 , "00 E o terceiro ", ganhador3, "00")
+  }
+}
+
+
+
